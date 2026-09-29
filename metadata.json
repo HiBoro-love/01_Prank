@@ -1,0 +1,6 @@
+{
+  "name": "Anshuman Has Something For You…",
+  "description": "A mysterious, cinematic, interactive 3D surprise experience from Anshuman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
